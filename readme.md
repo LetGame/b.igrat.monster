@@ -2,8 +2,7 @@
 
 a picture of big rat
 
-## 🚨 So, I want to shut this project down. Want to leave a comment?
-Please view discussion [#72](https://github.com/bigratmonster/bigrat.monster/discussions/72).
+## This is a fork of the original bigrat.monster because they are [planning to shut down](https://github.com/bigratmonster/bigrat.monster/discussions/72).
 
 ## Copyright Information
 
