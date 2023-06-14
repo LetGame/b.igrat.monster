@@ -1,4 +1,4 @@
-# [bigrat.monster]
+# [b.igrat.monster]
 
 a picture of big rat
 
